@@ -1,16 +1,10 @@
 ================
-sample_data_work
+Sample Data Work
 ================
 
+I have prepared this notebook to share my favourite code snippets. I will cover data cleaning, hypothesis validation as well as visualisation of data, closed-form models and predictions.
 
-Add a short description here!
-
-
-Description
-===========
-
-A longer description of your project goes here...
-
+Make sure to look at the notebook [here](https://nbviewer.jupyter.org/github/faurehu/sample_data_work/blob/master/Sample%20Data%20Work.ipynb).
 
 Note
 ====
